@@ -8,7 +8,8 @@ def reverse_each_word(string)
       new_sentence << ""
     else
       new_sentence << " "
-      index += 1
     end
+    index += 1
   end
+  new_sentence
 end
