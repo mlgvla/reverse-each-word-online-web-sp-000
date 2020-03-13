@@ -11,5 +11,4 @@ def reverse_each_word(string)
       index += 1
     end
   end
-  new_sentence
 end
